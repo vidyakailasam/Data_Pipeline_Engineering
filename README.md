@@ -3,7 +3,7 @@ Data pipelines are like the heart and soul of efficient data handling, ensuring 
 Airflow provides the backbone for orchestrating tasks, but what truly sets it apart is its extensibility and compatibility with a wide range of companion programs.
 This project explains how Apache Airflow seamlessly integrates with various tools, including SODA, Astro, Comos, DBT, and many more, to help build efficient and robust data pipelines. 
 
-**Online Retail Raw Data**
+**ETL Process**
 
 1. Ingest Raw Dataset- Load the CSV data into Google Cloud Storage
 2. Quality Check- Data quality control using SODA
